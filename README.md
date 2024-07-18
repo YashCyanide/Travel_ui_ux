@@ -1,7 +1,11 @@
 
 
-<h1>Travel Website</h1>
+![image](https://github.com/user-attachments/assets/ce04cf65-0cb3-4cfa-a91d-99cbb954e265)
+![image](https://github.com/user-attachments/assets/1fb92027-f607-490a-956e-b2248d979c8d)
+![image](https://github.com/user-attachments/assets/120cd600-5bb2-466b-a4b0-1039ab27f2e3)
+![image](https://github.com/user-attachments/assets/defdae10-52af-44d9-8f12-fec6c9cf3da5)
 
+<h1>Travel Website</h1>
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
